@@ -1,4 +1,4 @@
-# mafamilly (my family)
+# mafamily (my family)
 ## This is a web app that lets you manage familly affairs with ease
 Families have a lot going on, finances, projects and most important;
 communication.
